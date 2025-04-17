@@ -40,4 +40,4 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 14520s npm run zokou #Limite l'exécution à 24h59min59s
+        timeout 14520s npm run zokou #Limite l'exécution à 10h 59min 59s
